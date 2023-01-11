@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aya-rh
-- 👀 I’m interested in switching to a career in which I can code full time (after learning to code of course).
-- 🌱 I’m currently learning html, css, JavaScript, python...
-- 💞️ I’m looking to collaborate on getting myself into a boot camp 🫠
+- 👀 I’m interested in switching to careers and becoming a full stack developer.
+- 🌱 I’m currently learning html, css, and JavaScript with Bright Network.
+- 💞️ I’m looking to collaborate on developing skills.
 - 📫 How to reach me through my GitHub or on ayahezam8@gmail.com
 
 <!---
